@@ -1,0 +1,19 @@
+# Environment variables and API keys
+.env
+.env.txt
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Vector database
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
